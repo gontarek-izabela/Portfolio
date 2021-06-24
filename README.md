@@ -9,9 +9,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Courses
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
 * 05.2021 - **Scrum Master Professional** - CodeSprinters
-# Technical books read
-# Groups for knowledge gathering
-# Recommended blogs and websites
 # Webinars
+# Other sources of knowledge
 # My Test Documentation
 # My Projects
