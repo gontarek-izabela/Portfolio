@@ -15,4 +15,4 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 * **Test plans**:
   * [Skleptest.pl](https://drive.google.com/file/d/10JDiP2BnJhCI2IG2B8-j2oA7jst8crHx/view?usp=sharing)
 # My Projects
-* Exercises from the course "Java dla testerów" - Testeroprogramowania.pl
+* Exercises from the course **"Java dla testerów"** - Testeroprogramowania.pl
