@@ -10,6 +10,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Courses
 * 10.2021 - **Kierunek programista** - Stormit.pl - in progress
 * 10.2021 - **Java dla Testerów** - TesterOprogramowania.pl - in progress
+* 10.2021 - **GIT Essential Training - The Basics** - Linkedin.com - in progress
 * 09.2021 - **GIT - kurs dla początkujących** - TesterOprogramowania.pl
 * 05.2021 - **Scrum Master Professional** - CodeSprinters
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
