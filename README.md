@@ -11,6 +11,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Courses
 * 10.2021 - **Kierunek programista** - Stormit.pl - in progress
 * 10.2021 - **Java dla Testerów** - TesterOprogramowania.pl - in progress
+* 10.2021 - **SQL Essential Training** - Linkedin.com
 * 10.2021 - **SQL for Testers** - Linkedin.com
 * 10.2021 - **SQL for non-programmers** - Linkedin.com
 * 10.2021 - **GIT Essential Training - The Basics** - Linkedin.com
@@ -21,6 +22,8 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Other sources of knowledge
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # My Test Documentation
+* **Defect Reports:
+  * [Guru999_Banking App](https://docs.google.com/spreadsheets/d/1x5xZq_2eco868xaWl81siyIFnmeJaTPO/edit?usp=sharing&ouid=110831609993206227141&rtpof=true&sd=true)
 * **Test plans**:
   * [Skleptest.pl](https://drive.google.com/file/d/10JDiP2BnJhCI2IG2B8-j2oA7jst8crHx/view?usp=sharing)
 # My Projects
