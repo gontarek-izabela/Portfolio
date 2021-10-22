@@ -3,6 +3,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Tools
 * Test Management and bug-tracking tools: **Jira, Trello, Testlink, Testrail**
 * Version Control software: **GIT**
+* Creating data for the tests: **Mockaroo**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
@@ -22,9 +23,13 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 # Other sources of knowledge
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # My Test Documentation
-* **Defect Reports**:
-  * [Guru999-Fictional banking application](https://docs.google.com/spreadsheets/d/1x5xZq_2eco868xaWl81siyIFnmeJaTPO/edit?usp=sharing&ouid=110831609993206227141&rtpof=true&sd=true)
 * **Test plans**:
   * [Skleptest.pl](https://drive.google.com/file/d/10JDiP2BnJhCI2IG2B8-j2oA7jst8crHx/view?usp=sharing)
 # My Projects
+ * **Testing fictional banking application** - GURU99 Project
+ * - [SRS v1](https://docs.google.com/document/d/1fNkUG0hGbpR4C3gqsJI-QysBT-d577PgjLrFGulg8B4/edit?usp=sharing)
+ * - [Mindmap for SRS v1](https://drive.google.com/file/d/1YODqQ0CI1v2RMp3ETeNclPlaTBY-moZg/view?usp=sharing)
+ * - [Defect Reports](https://docs.google.com/spreadsheets/d/1x5xZq_2eco868xaWl81siyIFnmeJaTPO/edit?usp=sharing&ouid=110831609993206227141&rtpof=true&sd=true)
+ * - [Defect Documentation](https://drive.google.com/drive/folders/1F7lcbZ8HAAOv51g4qQ7obLfxrO-LUyRV?usp=sharing)
+ * - Test cases
 
