@@ -5,6 +5,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 * Test automation: **Selenium IDE**
 * Version Control software: **GIT**
 * Creating data for the tests: **Mockaroo**
+* Data bases: **SQLite**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
