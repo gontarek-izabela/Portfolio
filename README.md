@@ -12,8 +12,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 * 2018 - **Project Management Professional** - PMI
 * 2016 - **Prince2 Foundation** - APMG
 # Courses
-* 10.2021 - **Kierunek programista** - Stormit.pl - in progress
-* 10.2021 - **Java dla Testerów** - TesterOprogramowania.pl - in progress
+* 10.2021 - **Introduction to computer science** - HarvardX CS50X - in progress
 * 10.2021 - **SQL Essential Training** - Linkedin.com
 * 10.2021 - **SQL for Testers** - Linkedin.com
 * 10.2021 - **SQL for non-programmers** - Linkedin.com
