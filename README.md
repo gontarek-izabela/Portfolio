@@ -22,6 +22,7 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
 
 # Other sources of knowledge
+* **Dare-IT** - mentoring program, where I work with my mentor on my QA & Testing skills. Within the program I'm also improving my soft skills (e.g. time management, giving feedback, team work) and learn about working in Agile and Scrum.
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # My Test Documentation
 * **Test plans**:
