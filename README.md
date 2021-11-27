@@ -34,5 +34,5 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
    - [Defect Reports](https://docs.google.com/spreadsheets/d/1x5xZq_2eco868xaWl81siyIFnmeJaTPO/edit?usp=sharing&ouid=110831609993206227141&rtpof=true&sd=true)
    - [Defect Documentation](https://drive.google.com/drive/folders/1F7lcbZ8HAAOv51g4qQ7obLfxrO-LUyRV?usp=sharing)
    - [Test cases](https://docs.google.com/spreadsheets/d/1x5xZq_2eco868xaWl81siyIFnmeJaTPO/edit?usp=sharing&ouid=110831609993206227141&rtpof=true&sd=true)
- * **Testing Trello** - participation in Cherry-IT mentoring initiative
+ * **Testing Kanban Board** - participation in Cherry-IT mentoring initiative
 
