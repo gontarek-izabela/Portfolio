@@ -1,16 +1,17 @@
 # About me
-My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2010 (Civil Engineering). Somewhere around 2013 I've become interesed in project management and ways of succesfully getting things done. In 2014 I've finished post-gradute studies in project management of Warsaw School of Economics. I've gained the PRINCE2 Foundation certificate in 2016, PMP certificate in 2018 and Professional Scrum Master I certificate in 2021. Project Management is still my great passion but after giving birth to my second child I've felt a great surge of power and decided to change my career after years of working as a project manager. I wanted to start doing something connected with my natural strenghts. I was always obsessed with quality so testing is extremely exciting for me and being a perfectionist with great attention to details, always determined to figure out how things work / why something does not work / how to make things work better and faster is definitely helping me to do this job well. 
+My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2010 (Civil Engineering). Somewhere around 2013 I've become interesed in project management and ways of succesfully getting things done. In 2014 I've finished post-gradute studies in project management of Warsaw School of Economics. I've gained the PRINCE2 Foundation certificate in 2016, PMP certificate in 2018 and Professional Scrum Master I certificate in 2021. Project Management is still my great passion but after years of working as a project manager, I decided to start doing something even more deeply connected to my natural strenghts. I was always obsessed with quality so testing is extremely exciting for me. Being a perfectionist with great attention to details, always determined to figure out how things work / why things do not work / how to make things work better and faster is definitely helping me to do this job well. 
 # Tools
-* Test Management and bug-tracking tools: **Jira, Trello, Testlink, Testrail**
+* Test Management and bug-tracking tools: **Jira, Trello, Testlink, Testrail, Test Monitor**
 * Test automation: **Selenium IDE**
 * Version Control software: **GIT**
-* Creating data for the tests: **Mockaroo**
+* Creating test data: **Mockaroo**
 * Databases: **SQLite**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
 * 2018 - **Project Management Professional** - PMI
 * 2016 - **Prince2 Foundation** - APMG
+* 2022 - **Trusted Tester** - DHS
 # Courses
 * 10.2021 - **Introduction to computer science** - HarvardX CS50X - in progress
 * 10.2021 - **SQL Essential Training** - Linkedin.com
@@ -20,9 +21,10 @@ My name is Izabela Gontarek. I've graduated Gdansk University of Technology in 2
 * 09.2021 - **GIT - Kurs dla początkujących** - TesterOprogramowania.pl
 * 05.2021 - **Scrum Master Professional** - CodeSprinters
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
+* 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
 
 # Other sources of knowledge
-* **Dare-IT** - mentoring program, where I work with my mentor on my QA & Testing skills. Within the program I'm also improving my soft skills (e.g. time management, giving feedback, team work) and learn about working in Agile and Scrum.
+* **Dare-IT** - mentoring program, where I've been working with my mentor on my QA & Testing skills. Within the program I've also improved my soft skills (e.g. time management, giving feedback, team work) and leart about working in Agile and Scrum.
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # My Test Documentation
 * **Test plans**:
