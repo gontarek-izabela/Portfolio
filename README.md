@@ -45,6 +45,6 @@ My name is Izabela Gontarek. After years of working as a project manager (I've s
     - [Collection of Requests](https://drive.google.com/file/d/1aR60rCjuGT0ZkqN3JseNx5vHDyI4XKFc/view?usp=sharing)
     - [Report generated in Newman](https://drive.google.com/file/d/1fwrIYcvmNfeN0W9gpI0nWZXz2NM-33uX/view?usp=share_link)
   * **Testin API - Trello**
-    - [[Collection of Requests](https://drive.google.com/file/d/1rNkGJoJzDtzhGH09_DIOQeCmdh2dvlU0/view?usp=sharing)
+    - [Collection of Requests](https://drive.google.com/file/d/1rNkGJoJzDtzhGH09_DIOQeCmdh2dvlU0/view?usp=sharing)
    
 
