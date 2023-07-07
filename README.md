@@ -1,5 +1,9 @@
 # About me
-My name is Izabela Gontarek. After years of working as a project manager (I've started being interested in that field around 2013, in 2014 I've finished post-gradute studies in project management of Warsaw School of Economics, I've gained the PRINCE2 Foundation certificate in 2016, PMP certificate in 2018), I've decided to start doing something even more deeply connected to my natural strenghts. I have always been obsessed with quality, a perfectionist with great attention to details, determined to figure out how things work / why things do not work / how to make things work better and faster. That's why testing is extremely exciting for me. 
+My name is Izabela Gontarek. After years of working as a project manager (I've started being interested in that field around 2013, in 2014 I've finished post-gradute studies in project management of Warsaw School of Economics, I've gained the PRINCE2 Foundation certificate in 2016, PMP certificate in 2018), I've decided to start doing something even more deeply connected to my natural strenghts. I have always been:
+* obsessed with quality,
+* a perfectionist with great attention to details,
+* determined to figure out how things work / why things do not work / how to make things work better and faster.
+That's why testing is extremely exciting for me. 
 # Tools
 * Test Management and bug-tracking tools: **Jira, Trello, TestLink, TestRail, Test Monitor**
 * Test automation: **Selenium IDE**
