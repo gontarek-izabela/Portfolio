@@ -8,7 +8,7 @@ That's why testing is extremely exciting for me.
 # Tools
 * Test Management and bug-tracking tools: **Jira, Trello, TestLink, TestRail, Test Monitor**
 * Test automation: **Selenium IDE**
-* API Testing: **Postman** and **Newman** for reports generation
+* API Testing: **Postman** and **Newman** (for reports generation)
 * Version Control software: **GIT**
 * Creating test data: **Mockaroo**
 * Databases: **SQLite**
