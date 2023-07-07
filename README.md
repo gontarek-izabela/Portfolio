@@ -3,6 +3,7 @@ My name is Izabela Gontarek. After years of working as a project manager (I've s
 * obsessed with quality,
 * a perfectionist with great attention to details,
 * determined to figure out how things work / why things do not work / how to make things work better and faster.
+
 That's why testing is extremely exciting for me. 
 # Tools
 * Test Management and bug-tracking tools: **Jira, Trello, TestLink, TestRail, Test Monitor**
