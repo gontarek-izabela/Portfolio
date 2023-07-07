@@ -19,7 +19,7 @@ That's why testing is extremely exciting for me.
 * 2016 - **Prince2 Foundation** - APMG
 * 2022 - **Trusted Tester** - DHS
 # Courses
-* 10.2021 - **Introduction to computer science** - HarvardX CS50X - in progress
+* 10.2021 - **Introduction to computer science** - HarvardX CS50 - in progress
 * 10.2021 - **SQL Essential Training** - Linkedin.com
 * 10.2021 - **SQL for Testers** - Linkedin.com
 * 10.2021 - **SQL for non-programmers** - Linkedin.com
