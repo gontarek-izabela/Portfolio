@@ -19,7 +19,6 @@ That's why testing is extremely exciting for me.
 * 2016 - **Prince2 Foundation** - APMG
 * 2022 - **Trusted Tester** - DHS
 # Courses
-* 05.2022 - **Introduction to computer science** - HarvardX CS50 - in progress
 * 10.2021 - **SQL Essential Training** - Linkedin.com
 * 10.2021 - **SQL for Testers** - Linkedin.com
 * 10.2021 - **SQL for non-programmers** - Linkedin.com
@@ -27,6 +26,7 @@ That's why testing is extremely exciting for me.
 * 09.2021 - **GIT - Kurs dla początkujących** - TesterOprogramowania.pl
 * 05.2021 - **Scrum Master Professional** - CodeSprinters
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
+* 05.2022 - **Introduction to computer science** - HarvardX CS50 - in progress
 * 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
 
 # Other sources of knowledge
