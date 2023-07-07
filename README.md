@@ -48,7 +48,6 @@ That's why testing is extremely exciting for me.
    - [Test Cases](https://drive.google.com/file/d/1nxhO3zRJ6WS6GKnb4sT4_MaOXhc8J2Pd/view?usp=sharing)
   * **Testing API - Simple Books**
     - [Collection of Requests](https://drive.google.com/file/d/1aR60rCjuGT0ZkqN3JseNx5vHDyI4XKFc/view?usp=sharing)
-    - [Report generated in Newman](https://drive.google.com/file/d/1fwrIYcvmNfeN0W9gpI0nWZXz2NM-33uX/view?usp=share_link)
   * **Testin API - Trello**
     - [Collection of Requests](https://drive.google.com/file/d/1rNkGJoJzDtzhGH09_DIOQeCmdh2dvlU0/view?usp=sharing)
    
