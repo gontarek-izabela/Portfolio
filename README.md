@@ -6,12 +6,12 @@ My name is Izabela Gontarek. After years of working as a project manager (I've s
 
 That's why testing is extremely exciting for me. 
 # Tools
-* Test Management and bug-tracking tools: **Jira, Trello, TestLink, TestRail, Test Monitor**
+* Test Management and bug-tracking tools: **XRay, Jira, Trello, TestLink, TestRail, Test Monitor, Redmine**
 * Test automation: **Selenium IDE**
 * API Testing: **Postman** and **Newman** (for reports generation)
 * Version Control software: **GIT**
 * Creating test data: **Mockaroo**
-* Databases: **SQLite**
+* Databases: **SQLite DBeaver**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
@@ -28,6 +28,7 @@ That's why testing is extremely exciting for me.
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
 * 05.2022 - **Introduction to computer science** - HarvardX CS50 - in progress
 * 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
+* 03.2024 - **Agile Coaching with Giles Lindsay**
 
 # Other sources of knowledge
 * **Dare-IT** - mentoring program, where I've been working with my mentor on my QA & Testing skills. Within the program I've also improved my soft skills (e.g. time management, giving feedback, team work) and leart about working in Agile and Scrum.
