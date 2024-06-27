@@ -11,7 +11,7 @@ That's why testing is extremely exciting for me.
 * API Testing: **Postman** and **Newman** (for reports generation)
 * Version Control software: **GIT**
 * Creating test data: **Mockaroo**
-* Databases: **SQLite DBeaver**
+* Databases: **SQLite, DBeaver**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
