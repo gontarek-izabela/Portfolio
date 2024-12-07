@@ -7,12 +7,14 @@ My name is Izabela Gontarek. After years of working as a project manager (I've s
 That's why testing is extremely exciting for me. 
 # Tools
 * Test Management and bug-tracking tools: **XRay, Jira, Trello, TestLink, TestRail, Test Monitor, Redmine**
-* Test automation: **Selenium IDE**
-* API Testing: **Postman** and **Newman** (for reports generation), **Swagger**
+* API Testing: **Postman** and **Newman** (for reports generation), **Swagger**, **Proxyman**
+* Accessibiity Testing: **ANDI, Color Contrast Checker, Voiceover, AXE, DevTools**
+* Databases: **SQLite, DBeaver**
+* Logs: **Grafana, Sentry**
 * Version Control software: **GIT**
 * Creating test data: **Mockaroo**
-* Databases: **SQLite, DBeaver**
-* Logs: **Grafana**
+* Test automation: **Selenium IDE**
+* Documentation: **Confluence**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
