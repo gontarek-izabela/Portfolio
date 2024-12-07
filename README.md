@@ -35,7 +35,7 @@ That's why testing is extremely exciting for me.
 * 03.2024 - **Agile Coaching with Giles Lindsay**
 
 # Other sources of knowledge
-* **Dare-IT** - mentoring program, where I've been working with my mentor on my QA & Testing skills. Within the program I've also improved my soft skills (e.g. time management, giving feedback, team work) and leart about working in Agile and Scrum.
+* **Dare-IT** - mentoring program, where I've been working with my mentor on my QA & Testing skills. Within the program I've also improved my soft skills (e.g. time management, giving feedback, team work) and learnt about working in Agile and Scrum.
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 # My Test Documentation
 * **Test plans**:
