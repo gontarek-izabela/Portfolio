@@ -8,16 +8,18 @@ That's why testing is extremely exciting for me.
 # Tools
 * Test Management and bug-tracking tools: **XRay, Jira, Trello, TestLink, TestRail, Test Monitor, Redmine**
 * Test automation: **Selenium IDE**
-* API Testing: **Postman** and **Newman** (for reports generation)
+* API Testing: **Postman** and **Newman** (for reports generation), **Swagger**
 * Version Control software: **GIT**
 * Creating test data: **Mockaroo**
 * Databases: **SQLite, DBeaver**
+* Logs: **Grafana**
 # Certificates
 * 2021 - **Professional Scrum Master I** - Scrum.org
 * 2021 - **ISTQB Foundation** - ISTQB
 * 2018 - **Project Management Professional** - PMI
 * 2016 - **Prince2 Foundation** - APMG
 * 2022 - **Trusted Tester** - DHS
+* 2023 - **Agile Coaching** - Delta Agile
 # Courses
 * 10.2021 - **SQL Essential Training** - Linkedin.com
 * 10.2021 - **SQL for Testers** - Linkedin.com
