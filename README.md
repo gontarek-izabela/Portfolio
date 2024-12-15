@@ -24,7 +24,7 @@ That's why testing is extremely exciting for me.
 * 2016 - **Prince2 Foundation** - APMG
 
 # Courses
-* 08.2-24 - **CS50's Introduction to Databases with SQL** - HarvardX CS50 - in progress
+* 08.2024 - **CS50's Introduction to Databases with SQL** - HarvardX CS50 - in progress
 * 03.2024 - **Agile Coaching with Giles Lindsay** - Delta Agile
 * 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
 * 02.2021 - **Akademia Testowania Plus** - Testuj.pl
