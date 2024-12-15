@@ -24,16 +24,16 @@ That's why testing is extremely exciting for me.
 * 2016 - **Prince2 Foundation** - APMG
 
 # Courses
-* 10.2021 - **SQL Essential Training** - Linkedin.com
-* 10.2021 - **SQL for Testers** - Linkedin.com
-* 10.2021 - **SQL for non-programmers** - Linkedin.com
-* 10.2021 - **GIT Essential Training - The Basics** - Linkedin.com
-* 09.2021 - **GIT - Kurs dla początkujących** - TesterOprogramowania.pl
-* 05.2021 - **Scrum Master Professional** - CodeSprinters
-* 02.2021 - **Akademia Testowania Plus** - Testuj.pl
-* 05.2022 - **Introduction to computer science** - HarvardX CS50 - in progress
-* 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
+* 08.2-24 - **CS50's Introduction to Databases with SQL** - HarvardX CS50 - in progress
 * 03.2024 - **Agile Coaching with Giles Lindsay** - Delta Agile
+* 06.2022 - **Trusted Tester for Web on Windows** - U.S Department of Homeland Security
+* 02.2021 - **Akademia Testowania Plus** - Testuj.pl
+* 05.2021 - **Scrum Master Professional** - CodeSprinters
+* 09.2021 - **GIT - Kurs dla początkujących** - TesterOprogramowania.pl
+* 10.2021 - **GIT Essential Training - The Basics** - Linkedin.com
+* 10.2021 - **SQL for non-programmers** - Linkedin.com
+* 10.2021 - **SQL for Testers** - Linkedin.com
+* 10.2021 - **SQL Essential Training** - Linkedin.com
 
 # Other sources of knowledge
 * **Dare-IT** - mentoring program, where I've been working with my mentor on my QA & Testing skills. Within the program I've also improved my soft skills (e.g. time management, giving feedback, team work) and learnt about working in Agile and Scrum.
