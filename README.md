@@ -55,5 +55,7 @@ That's why testing is extremely exciting for me.
     - [Collection of Requests](https://drive.google.com/file/d/1aR60rCjuGT0ZkqN3JseNx5vHDyI4XKFc/view?usp=sharing)
   * **Testing API - Trello**
     - [Collection of Requests](https://drive.google.com/file/d/1rNkGJoJzDtzhGH09_DIOQeCmdh2dvlU0/view?usp=sharing)
+  * **Databases** - final project for CS50 Introduction to Databases with SQL
+    - [Repository](https://github.com/code50/79417783/tree/0f95fe1e609fd57aa6c3058c39ef62e44efbb58a/project)
    
 
